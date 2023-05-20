@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 **Задачи анализа:** Проанализировать клиентов регионального банка и выделить сегменты клиентов, которые склонны оставаться в банке. Дать рекомендации по привлечению лояльных клиентов.
 
-[Дашборд](https://public.tableau.com/app/profile/eve.black4144/viz/Bank-ChurnAnalysis/Dashboard1?publish=yes)
+[Дашборд](https://public.tableau.com/app/profile/eve.black4144/viz/BankChurnFull/Dashboard2?publish=yes)
 
 # Навыки и инструменты
 * python
