@@ -22,7 +22,7 @@ ________________________________________________________________________________
 Также была проведена работа по поиску данных о количестве ТС в Москве по необходимым видам. Открытых данных найдено не было, были взяты некоторые цифры из статей и пресс-релизов в открытом доступе с сайта Автостат.
 
 
-[Дашборд]([https://public.tableau.com/app/profile/eve.black4144/viz/Motodash/Main?publish=yes](https://public.tableau.com/app/profile/eve.black4144/viz/Motopartsdash/Dashboard2?publish=yes))
+[Дашборд]([https://public.tableau.com/app/profile/eve.black4144/viz/Motodash/Main?publish=yes](https://public.tableau.com/app/profile/eve.black4144/viz/Motopartsdash/Dashboard2?publish=yes)
 
 # Навыки и инструменты
 * python
